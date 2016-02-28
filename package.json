@@ -1,0 +1,27 @@
+{
+  "name": "gh-repos",
+  "version": "1.0.0",
+  "description": "Get one or all the owner repositories from GitHub.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "gh.js": "^2.4.1",
+    "typpy": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/gh-repos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/gh-repos/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/gh-repos#readme"
+}
