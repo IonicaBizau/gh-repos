@@ -6,10 +6,6 @@
   "directories": {
     "example": "example"
   },
-  "dependencies": {
-    "gh.js": "^2.4.1",
-    "typpy": "^2.3.1"
-  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/gh-repos/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/gh-repos#readme"
+  "homepage": "https://github.com/IonicaBizau/gh-repos#readme",
+  "dependencies": {
+    "gh.js": "^2.4.1",
+    "owner-repo": "^1.0.0",
+    "typpy": "^2.3.1"
+  }
 }
