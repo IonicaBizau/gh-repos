@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/gh-repos#readme",
   "dependencies": {
-    "gh.js": "^2.4.1",
+    "gh.js": "^3.0.0",
     "owner-repo": "^1.0.0",
     "typpy": "^2.3.1"
   }
