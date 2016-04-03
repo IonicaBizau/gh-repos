@@ -1,6 +1,6 @@
 {
   "name": "gh-repos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get one or all the owner repositories from GitHub.",
   "main": "lib/index.js",
   "directories": {
