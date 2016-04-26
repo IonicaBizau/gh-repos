@@ -1,14 +1,18 @@
+
 # gh-repos [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/gh-repos.svg)](https://www.npmjs.com/package/gh-repos) [![Downloads](https://img.shields.io/npm/dt/gh-repos.svg)](https://www.npmjs.com/package/gh-repos) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Get one or all the owner repositories from GitHub.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save gh-repos
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const githubRepos = require("gh-repos");
@@ -55,7 +59,8 @@ githubRepos("IonicaBizau", "your token", function (err, repos) {
 });
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `ghRepos(input, token, cb)`
 Get one or all the owner repositories from GitHub.
@@ -65,13 +70,18 @@ Get one or all the owner repositories from GitHub.
 - **String** `token`: An optional GitHub token.
 - **Function** `cb`: The callback function.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## License
+
+ - [`gh-repeat`](https://github.com/IonicaBizau/gh-repeat#readme)—Repetitive actions on multiple GitHub repositories.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
