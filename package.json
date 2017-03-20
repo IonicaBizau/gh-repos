@@ -1,6 +1,6 @@
 {
   "name": "gh-repos",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Get one or all the owner repositories from GitHub.",
   "main": "lib/index.js",
   "directories": {
@@ -10,7 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -29,12 +29,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
