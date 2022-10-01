@@ -79,13 +79,13 @@ const githubRepos = require("gh-repos");
 // Get a specific repository (the result will be an array containing one element)
 githubRepos("IonicaBizau/git-stats", function (err, repos) {
     console.log(err || repos);
-    // [ { id: 30538630,
-    //     name: 'git-stats',
-    //     full_name: 'IonicaBizau/git-stats',
-    //     owner: { login: 'IonicaBizau', ...},
-    //     private: false,
-    //     ...
-    //     subscribers_count: 52 } ]
+    /* [ { id: 30538630,
+         name: 'git-stats',
+         full_name: 'IonicaBizau/git-stats',
+         owner: { login: 'IonicaBizau', ...},
+         private: false,
+         ...
+         subscribers_count: 52 } ] */
 });
 
 // Get all my repositories
