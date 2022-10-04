@@ -29,7 +29,7 @@
 
 
 
-> Get one or all the owner repositories from GitHub.
+> Get one or all of the owner's repositories from GitHub.
 
 
 
@@ -146,7 +146,7 @@ There are few ways to get help:
 
 
 ### `ghRepos(input, token, cb)`
-Get one or all the owner repositories from GitHub.
+Get one or all of the owner's repositories from GitHub.
 
 #### Params
 
