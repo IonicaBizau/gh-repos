@@ -1,6 +1,6 @@
 {
   "name": "gh-repos",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Get one or all the owner repositories from GitHub.",
   "main": "lib/index.js",
   "directories": {
@@ -36,6 +36,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
